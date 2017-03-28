@@ -65,6 +65,9 @@ header {
 	font-family: "Comic Sans MS";
 	color: #444444;
 }
+#works {
+	width: 100%;
+}
 .works-item {
     width: 18%;
     float: left;
@@ -112,6 +115,7 @@ header {
 #profile {
 	color: #444444;
 	margin-top: 600px;
+	width: 100%;
 }
 .profile-contents-jp {
 	text-align: center;
